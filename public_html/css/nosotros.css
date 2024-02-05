@@ -1,0 +1,183 @@
+
+
+body{
+
+    background-color: #f0ece163;
+}
+
+   
+*{
+
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+
+h2{
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+font-size: 55px ;
+
+
+}
+h3,h4{
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+font-size: 28px;
+
+
+}
+
+
+
+
+
+/* SECCION DE EL TITULO DE LA PAGINA */
+
+
+
+.nosotros-titulo-pagina {
+    height: 300px;
+    display: flex;
+
+    flex-wrap: wrap;
+    
+    align-items: center;
+    background-image: url("../img/nosotros-fondo-titulo.svg");
+}
+
+
+.nosotros-titulo-pagina h2 {
+
+    text-align: center;
+width: 100%;
+
+    text-align: center;
+    width: 100%;
+    font-size: 450%;
+    color: #696969;
+  
+}
+/* SECCION DE EL TITULO DE LA PAGINA */
+
+
+/* PRIMER ELEMENTO DE NOSOTROS DE TRES COLUMNAS */
+
+
+.col-sm-12.col-md-5.nosotros-col-1 p {
+    font-size: 90%;
+}
+
+
+
+
+
+/* PRIMER ELEMENTO DE NOSOTROS DE TRES COLUMNAS */
+
+
+
+
+
+
+
+
+
+
+/* ELEMENTO QUIENES SOLÇMOSSSSS */
+.row.align-items-center.justify-content-center.nosotros-quienes-somos h4 {
+    font-size: 215%;
+}
+.row.align-items-center.justify-content-center.nosotros-quienes-somos p {
+    font-size: 90%;
+}
+
+/* ELEMENTO QUIENES SOLÇMOSSSSS */
+
+
+
+
+
+
+
+
+/* .col-sm-3.nosotros-col-2 {
+    display: none;
+} */
+
+
+.row.align-items-center.justify-content-center.nosotros-caracteristcas p {
+    font-size: 90%;
+   
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+
+
+    .col-12.col-sm-12.col-md-3.col-lg-3.col-xl-3.col-xxl-3.nosotros-col-3 {
+        display: none;
+        
+    }
+
+    .col-12.col-sm-12.col-md-6.col-lg-5.col-xl-5.col-xxl-5.nosotros-col-1 {
+        text-align: center;
+    }
+
+
+  }
+
+
+
+  @media (max-width: 1200px) {
+
+
+    .col-12.col-sm-12.col-md-6.col-lg-5.col-xl-5.col-xxl-5.nosotros-col-1 h2 {
+        font-size: 200%;
+    }
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
